@@ -12,18 +12,18 @@ Kid have several projects, compounds loT (hardware and software) and software se
 
 Door opening projects:
 - [Kid-Lock](https://github.com/kairops/kid-lock):
-  - Hardware: Electronic lock, arduino.
+  - Hardware: Electronic lock, [arduino](https://www.arduino.cc/).
   - Software: Arduino C++
 
 Launch event projects:
 - [Kid-NFC](https://github.com/kairops/kid-nfc)
-  - Hardware: NodeMCU, NFC
+  - Hardware: [NodeMCU](http://www.nodemcu.com/index_en.html), [Mifare RC522 IC Card RFID Module](https://www.amazon.es/s/ref=nb_sb_noss?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Ddiy&field-keywords=Mifare+RC522+IC+Card+RFID+Module)
   - Software: Arduino C++  
 - [Kid-FaceID](https://github.com/kairops/kid-faceid)
-  - Hardware: Raspberry PI, WebCam
+  - Hardware: [Raspberry PI](https://www.raspberrypi.org/), WebCam
   - Software: TBD
 - [Kid-FingerPrint](https://github.com/kairops/kid-fingerprint)
-  - Hardware: NodeMCU, fingerprint
+  - Hardware: [NodeMCU](http://www.nodemcu.com/index_en.html), [Fingerprint Scanner - TTL (GT-521F32)](https://learn.sparkfun.com/tutorials/fingerprint-scanner-gt-521fxx-hookup-guide/all)
   - Software: Arduino C++
 
 Event server projects:
