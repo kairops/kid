@@ -26,14 +26,14 @@ Launch event projects:
   - Hardware: [NodeMCU](http://www.nodemcu.com/index_en.html), [Fingerprint Scanner - TTL (GT-521F32)](https://learn.sparkfun.com/tutorials/fingerprint-scanner-gt-521fxx-hookup-guide/all)
   - Software: Arduino C++
 
-Event server projects:
-- [Kid-Event-Server](https://github.com/kairops/kid-event-server)
+Event Manager projects:
+- [kid-event-manager](https://github.com/kairops/kid-event-manager)
   - Software: NodeJS
 
 DataBases projects:
 - [Kid-DB](https://github.com/kairops/kid-db)
   - Software: NodeJS, Redis, RabbitMQ, Mysql
-- [Kid-Log](https://github.com/kairops/kid-log)
+- [kid-logger](https://github.com/kairops/kid-logger)
   - Software: NodeJS, Redis, RabbitMQ, MongoDB
 
 DashBoard projects:
